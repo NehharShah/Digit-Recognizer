@@ -1,7 +1,7 @@
 # Digit-Recognizer
 Basic Logistic Regression Model in PyTorch
 
-Notebook Uploaded to:- https://www.kaggle.com/c/digit-recognizer/data
+Notebook Uploaded to:- https://www.kaggle.com/c/digit-recognizer
 
 1. Used PyTorch
 2. Data was of MNIST
